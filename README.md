@@ -1,5 +1,6 @@
 
-#🚀 Welcome to My Portfolio
+🚀 Welcome to My Portfolio
+
 Hi there! I'm Shivam Patel, a Mechanical Engineering student passionate about combining technology, innovation, and problem-solving.
 
 This portfolio showcases projects I’ve worked on across ML, robotics, game development, web development, and data analysis. Each project reflects my dedication to learning and creating impactful solutions.
